@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Mobile Development- Android, IOS, Flutter**
 
-- 📫 How to reach me **sanjhansraj@gmail.com**
+- 📫 How to reach me **[Email](sanjhansraj@gmail.com)**, **[Text}(https://www.linkedin.com/in/sanjayhansraj/)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sanjayhansraj/](https://www.linkedin.com/in/sanjayhansraj/)
 
