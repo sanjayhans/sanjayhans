@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sanjayhansraj/](https://www.linkedin.com/in/sanjayhansraj/)
 
-- Learn with me and Catch me Live in Webshala .[https://www.webshala.in/courses/ANDROID-DEVELOPMENT-LIVE-TRAINING-PROGRAM-64d74d54e4b0c8ac6755ade7]
+- Learn with me and Catch me Live in .[Webshala](https://www.webshala.in/courses/ANDROID-DEVELOPMENT-LIVE-TRAINING-PROGRAM-64d74d54e4b0c8ac6755ade7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
