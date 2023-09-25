@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on [Tasreeh](https://www.tasreeh.ae/)
 
-- 🌱 I’m currently learning **TensorFlow**, Generative AI
+- 🌱 I’m currently learning **TensorFlow**, **Generative AI**
 
 - 👯 collaborate on [Flexjet](https://play.google.com/store/apps/details?id=com.flexjet.flexjet),  [Crestron Home](https://play.google.com/store/apps/details?id=com.crestron.phoenix.app)
 
 - 💬 Ask me about **Mobile Development- Android, IOS, Flutter**
 
-- 📫 How to reach me **[Email](sanjhansraj@gmail.com)**, **[Text](https://www.linkedin.com/in/sanjayhansraj/)**
+- 📫 How to reach me **sanjhansraj@gmail.com**, **[Text](https://www.linkedin.com/in/sanjayhansraj/)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sanjayhansraj/](https://www.linkedin.com/in/sanjayhansraj/)
 
