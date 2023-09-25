@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Tasreeh](https://www.tasreeh.ae/)
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **TensorFlow**, Generative AI
 
 - 👯 collaborate on [Flexjet](https://play.google.com/store/apps/details?id=com.flexjet.flexjet)
 
