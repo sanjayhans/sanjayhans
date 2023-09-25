@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **TensorFlow**, Generative AI
 
-- 👯 collaborate on [Flexjet](https://play.google.com/store/apps/details?id=com.flexjet.flexjet),  [Crestrn Home](https://play.google.com/store/apps/details?id=com.crestron.phoenix.app)
+- 👯 collaborate on [Flexjet](https://play.google.com/store/apps/details?id=com.flexjet.flexjet),  [Crestron Home](https://play.google.com/store/apps/details?id=com.crestron.phoenix.app)
 
-- 💬 Ask me about **android, flutter**
+- 💬 Ask me about **Mobile Development- Android, IOS, Flutter**
 
 - 📫 How to reach me **sanjhansraj@gmail.com**
 
